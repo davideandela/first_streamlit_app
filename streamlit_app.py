@@ -1,5 +1,6 @@
 import streamlit
 
-streamlit.title('What is this all about')
-streamlit.header('Looks like a Python tool')
-streamlit.text('Boring')
+streamlit.header('🥣Breakfast Menu')
+streamlit.text('🥗Omega 3 & Blueberry Oatmeal')
+streamlit.text('🐔Kale, Spinach & Rocket Smoothie')
+streamlit.text('🥑🍞Hard-Boiled Free-Range Egg')
